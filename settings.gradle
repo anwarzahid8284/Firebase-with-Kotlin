@@ -1,0 +1,2 @@
+rootProject.name = "MVVM_Koin_Firebase_Kotlin"
+include ':app'
